@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Abdulhameed Yusuf 👋
 
-<!--
-**Abdulhameed-123/Abdulhameed-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a full-stack developer passionate about blockchain & crypto.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔗 Building DeFi protocols and crypto dashboards
+- 📚 Always learning about Web3 & smart contracts
+- 📊 Market Analyst~||Forex & Crypto trader||
+- 💬 Ask me about React, Solidity, or blockchain architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend**: React, Next.js, TypeScript
+- **Backend**: Node.js, Express, PostgreSQL
+- **Blockchain**: Solidity, Hardhat, Web3.js
+- **Tools**: Git, Docker, AWS
+
+
+## 📈 GitHub Stats
