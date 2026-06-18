@@ -16,4 +16,4 @@ Welcome to my GitHub profile! I'm a full-stack developer passionate about blockc
 
 ## 💬 Let's Connect!
 - Feel free to reach out if you want to collaborate or chat about Web3!
-- [Email](mailto:yusufabdulhameed870@gmail.com) 📧 Email: john@example.com 
+- 📧 Email: yusufabdulhameed870@gmail.com 🐦 Twitter: [@HameedX01](https://x.com/HameedX01)  
